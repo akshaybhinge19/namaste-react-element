@@ -1,0 +1,29 @@
+{
+  "name": "namste-react-element",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaybhinge19/namaste-react-element.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaybhinge19/namaste-react-element/issues"
+  },
+  "homepage": "https://github.com/akshaybhinge19/namaste-react-element#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browswerslist": {
+    "last 2 versions"
+  }
+}

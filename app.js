@@ -3,11 +3,12 @@ React element (JS Object) (browser)=> html
 
 
 */
-
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 const header = React.createElement("h1", {id: "custom-heading", key: "sdfvf"}, "Hello World!");
 const root = ReactDOM.createRoot(document.getElementById("root-container"));
 // root.render(header);
-const footer = React.createElement("nav",{id:"footer-main",key:'footer'},"Made with love");
+const footer = React.createElement("nav",{id:"footer-main",key:'footer'},"Made with love 🚀");
 
 
 const parent = React.createElement("div", {id: "parent"},
