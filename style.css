@@ -1,0 +1,9 @@
+#custom-heading {
+    color: blueviolet;
+    background-color:bisque;
+}
+
+#footer-main {
+    position: absolute;
+    bottom: 1vh;
+}
